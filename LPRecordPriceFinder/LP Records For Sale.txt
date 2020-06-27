@@ -1,0 +1,622 @@
+Box	Artist 	Additional Artist	Album	Sub	Notes	Other markings	
+#1	Cab Calloway		The Cab Calloway Collection	20 Golden Greats			
+#1	Chas n Dave		Knees Up	Jamboree Bag No 2	Includes Song book		
+#1	Contour		16 Chart Hits 	Volume 9			
+#1	"Dave Dee, Dozy, Beaky, Mick and Titch"		If no one sang				
+#1	David Carroll	and his orchestra	Percussion Orientale  	Musical Sounds of the middle east			
+#1	Domingo		The Essential	Popular songs and arias			
+#1	Donovan		Colours				
+#1	Donovan		Catch The Wind				
+#1	Duran Duran		Notorius				
+#1	DVORAK		Symphony No. 8 	"Symphony No 8 (formerly No 4) in G Maor, Op 88. Scherzo Capriccioso, OP 66"	"Philharmonia Orchestra, Conducted By Carlo Maria Giulini"	T590	
+#1	DVORAK		Symphony No. 5	"Symphony No 5 in E Minor, Op 95,"	Leopold Ludwig conducting The London Symphony Orchestra	TP 73	
+#1	Eddie Dunstedter		The Bells of Christmas	Eddie Dunsteder at the Organ			
+#1	Erwin Halletz		Mr Casanova	Soft Music for Sweet Dreams			
+#1	Frederic Chopin & Wolfgang Amadeus Mozart 		Piano Concerto No 2 & Sinfonia Concertante for Violin and Viola				
+#1	Giuseppe Verdi		Don Carlos	in Italiano			
+#1	Glen Campbell		Greatest Hits				
+#1	Glen Campbell		By The Time I Get To Phoenix				
+#1	Glen Campbell		Glen				
+#1	Glen Campbell		Greatest Hits				
+#1	Glen Campbell		Reunion	The Songs of Jimmy Webb			
+#1	Glen Campbell		Wichita Lineman				
+#1	Glen Travis Campbell		Untitled				
+#1	Huddersfield Choral Soceity		The Carols Album				
+#1	Joe 'Fingers' Carr		Goes Continental				
+#1	John Denver		The Best Of	Volume 2			
+#1	Johnny Cash		Ring Of Fire	The Best Of			
+#1	Johnny Cash		I walk the line				
+#1	Johnny Duncan		Come a little bit closer				
+#1	Johnny Duncan		Greatest Hits				
+#1	Judith Durham	and the hottest band in town					
+#1	Jusy Collins		Judith				
+#1	Maria Callas		Callas sings Verdi at La Scala				
+#1	Maria Callas		Mad Scenes				
+#1	Michael Collins	and his orchestra	Chu-Chin-Chow				
+#1	Michael Crawford	with the London Symphony Orchestra	Songs from the stage and screen				
+#1	Norman Candler	and his magic strings	Can't Give you anything but my love				
+#1	Perry Como		And I Love You So				
+#1	Pietro Mascagni & Ruggiero Leoncavallo		Cavalleria Rusticana & I Pagliacci				
+#1	Ray Conniff		"His Orchestra, His Chorus, His Singers, His Sound"				
+#1	Ray Conniff		"Music From Mary Poppins, The Sounds of Music, My Fair Lady "				
+#1	Ray Conniff	and his Orchestra and Chorus	Hello Young Lovers				
+#1	Ray Conniff	and the singers	Somewhere My Love				
+#1	Ray Conniff	and the singers	This is My Song				
+#1	Ray Conniff	and the singers	Love Theme from 'The Godfather'				
+#1	Ray Conniff	and his Orchestra and Chorus	Great Contempory Instrumental Hits				
+#1	Ray Conniff	and the singers	We've Only Just Begun				
+#1	Ray Conniff	and his Orchestra and Chorus					
+#1	Ray Conniff	and the singers	Plays Carpenters				
+#1	Ray Conniff	and his Orchestra and the Singers	The look of love				
+#1	Ray Conniff	and the singers	I Love how you love me				
+#1	Ray Conniff	and the singers	Love Affair				
+#1	Ray Conniff	and the singers	Without You				
+#1	Ray Conniff		The Way We Were				
+#1	Richard Clayderman		Lettre A Ma Mere				
+#1	Roberto Delgado		Fiesta for Dancing				
+#1	Roberto Delgado	and his orchestra	Spanish Eyes				
+#1	Roberto Delgado	and his orchestra	Italian Romance				
+#1	Roberto Delgado	and his orchestra	Caramba	Hot Rhythm from South America			
+#1	Roberto Delgado		This is…				
+#1	Roberto Delgado		Tanz In Der Taverne				
+#1	Roberto Delgado		The very best of				
+#1	Roberto Delgado	and his orchestra	Magic Musical				
+#1	Roy Drusky		My grass is green				
+#1	Roy Drusky		All Time Country Hits				
+#1	Roy Drusky		Portait of Roy Drusky				
+#1	Skeeter Davis and Bobby Bare		Tunes for two				
+#1	Slim Pickins	and his twenty-niners	Chaleston				
+#1	The Bach Choir and Jacques Orchestra		Choral Classics				
+#1	The Carpenters		The Carpenters				
+#1	The Carpenters		Now And Then				
+#1	The Carpenters		Passage				
+#1	The Clancey Brothers and Tommy Makem		Sing of the Sea				
+#1	The Clancey Brothers and Tommy Makem		The Bold Fenian Men				
+#1	The Clancey Brothers and Tommy Makem		Home Boys Home				
+#1	The Clancey Brothers and Tommy Makem		Freedom's Sons				
+#1	The Clancey Brothers and Tommy Makem		The Boys Won't Leave The Girls Alone				
+#1	The Crusaders		Pass the Plate				
+#1	The Drifters		Saturday Night At The Club				
+#1	The Dubliners		Seven Drunken Nights				
+#1	The Dutch Swing College Band		Spotlight On		2 record collection		
+#1	The Dutch Swing College Band		25th Anniversary Concert				
+#1	The Dutch Swing College Band		Featuring Famous American Jazz Giants	"Teddy Wilson, Joe Venuti, Billy Butterfield, Bud Freeman, Jimmy Witherspoon, Wild Bill Davison"	2 record collection		
+#1	The Dutch Swing College Band		Hit Collection				
+#1	The Dutch Swing College Band	Bud Freeman	Bud and his buddies	And the unique sound of Bud Freeman			
+#1	The Dutch Swing College Band		65 '70		2 record collection		
+#1	The Dutch Swing College Band		Jazz Class			"P08045L, BBL 7390"	
+#1	The Dutch Swing College Band		Party Favourites				
+#1	The Dutch Swing College Band		Doctor Jazz	"With Sidney Bechet, Nev A Raphaello, Nelson Williams"			
+#1	The Dutch Swing College Band		Boys Meet Girls	"Featuring Conny Ven Den Bos, Karin Kent, Rita Reys, Cnny Van Bergen, Francis Van Rooy, Anneke Gronloh, Trea Dobbs, Leddy Wessel"			
+#1	The Ray Conniff Singers		It's the talk of the town				
+#1	Toni Dalli	with Michael Collins and his orchestra	with Michael Collins and his orchestra				
+#1	Val Doonican		Making Tracks		Cover Signed / Autographed		
+#1	Various		Dublin Songs		2 record collection		
+#1	Various		Dixieland Jubilee	Vol 2			
+#1	Various		Dixieland Jubilee	Vol 1			
+#1	Various		Delibes	"Collelia-Ballet Music, Sylvia-Ballet Music. Orchestre du Theatre National de l'opera Paris, Andre Cluytens"			
+#1	Various		Contry and Western Winnders (Sampler)				
+#1	Various		Country Routes				
+#1	Various	with the Ralph Carmichael Singers and Orchestra and the songs of Bob Ashton	A Cozy Christmas				
+#1	Various		Climax (Special Sampler)				
+#1	Various		Classical Masterpieces by Great Conductors				
+#1	Various		Carols at Christmas				
+#2	Don Williams		Expressions				
+#2	Leonard Bernstein 	The New York Philharmonic Orchestra	William Tell And Other Favourite Overtures				
+#2	Andy Williams		Love Story				
+#2	Andy Williams		The First Time Ever (I Saw Your Face)				
+#2	Andy Williams		Can't Help Falling In Love				
+#2	Roger Whittaker		Whistle Stop!				
+#2	Roger Whittaker		Durham Town				
+#2	Josh White		Singer Supreme				
+#2	The Great Welsh Choirs		Corau Mawr Cymru				
+#2	Lu Watters' Yerba Buena Jass Band		The 50's Recordings	Volume One			
+#2	Dionne Warwick		The Greatest Hits Of		3 Record Set		
+#2	Kai Warner		Summer Dance				
+#2	Kai Warner		Hits All The Way				
+#2	Die Schaumburger Märchensänger 	Obernkirchen Children's Choir	Mein Vater war ein Wandersmann				
+#2	The Waikiki Beach Boys		South Sea Island Magic				
+#2	Wagner		The World Of Opera	Highlights from Lohengrin			
+#2	Karajan	The Berlin Philharmonic Orchestra	Conducts Wagner	Volume 1			
+#2	Viva Manuel		Viva Manuel				
+#2	Verdi	Eugene Ormandy / The Philadelphia Orchestra	Requiem		2 Record Set	BRG 72297 / BRG 77298	
+#2	Various		Ultimate Stereo Presentation				
+#2	Bonnie Tyler		The very best of				
+#2	Toscanini		By Request				
+#2	Various		Top Hits of 1970	Covers		DEA1040	
+#2	The Torero Band		Tijuana Christmas (Sound of Brass)				
+#2	The Three Degrees		Take Good Care Of Yourself				
+#2	Irma La Douce		Songs From the Threepenny Opera				
+#2	Tchaikovsky	London Symphony Orchestra	Symphony No 5				
+#2	Tchaikovsky	Bamberg Symphony	Symphony No 4	"in F Minor, Op 36"			
+#2	Tchaikovsky	London Symphony Orchestra	1812 Overture - Romeo And Juliet - Marche Slave				
+#2	Tchaikovsky	The Paris Conservatoire Orchestra	The Nutcracker	"Suites 1 & 2, OP 71"			
+#2	Various		Take It Easy		2 Record Set		
+#2	Various		Smash Hits Sumprems Style				
+#2	Various		Thrill To The Sensational Sound Of Super Stereo				
+#2	Various		Super Stereo Sensation				
+#2	Monty Sunshine & His Band		Shades of Sunshine				
+#2	Monty Sunshine's Jazz band		Magic Is The Moonlight				
+#2	Barbra Streisand		Love Songs				
+#2	Barbra Streisand		Love Songs				
+#2	Frank Sinatra		Frank Sinatra			ST 967	
+#2	Frank Sinatra		Greatest Hits				
+#2	Frank Sinatra		The Sinatra Collection				
+#2	Frank Sinatra		Nice 'n' Easy				
+#2	Sammi Smith		The Entertainer				
+#2	Rodgers & Hammerstein		The Sound Of Music (An Original Soundtrack Recording)				
+#2	Johann Strauss	The Vienna State Opera Orchestra	Waltzes				
+#2	Barbra Streisand		Songbird				
+#2	"Street Organ ""De Arabier"		Street Organ Plays International Favourites				
+#2	Richard Strauss	"Vienna Philharmonic Orchestra, Clemens Krauss"	"Don Quixote, Op. 35"			ECS 609	
+#2	Richard Strauss		Four Last Songs	Capriccio - Closing Scene / Ariadne Auf Naxos - Ariadne's Aria		ECM 778	
+#2	Richard Strauss		Excerpts from Richard Strauss's Operas			CM 70	
+#2	Richard Strauss	"The Philadelphia Orchestra,  Eugene Ormandy"	Also Sprach Zarathustra			ASD 3897	
+#2	Richard Strauss	The New Promenade Concert Orchestra	More Music From the Strauss Family			2383 220	
+#2	Stravinsky	Sir Eugene Goossens Conducting The London Symphony Orchestra	The Rite Of Spring			TP 159	
+#2	Harry Stoneham And The Midnite Blue		Late Night Lowrey			2344 040	
+#2	St Pauls Choir		Music From Son Et Lumiere at St Pauls 			NSPL 18286	
+#2	Smetana	"Rudolf Schock, Kurt Böhme, Melitta Muszely"	Highlights From The Bartered Bride			OHP 103	
+#2	Sibelius	"Erik Tuxen, Thomas Jensen, The Danish State Radio Symphony Orchestra"	Symphony No. 5	Karelia Suite		ACL 72	
+#2	Antonin Rejcha / Jan Hugo Vo?íšek	Prague Chamber Orchestra ?	Symphony In E Flat Major / Symphony In D Major			SUA ST 50007	
+#2	Joseph Haydn	"RIAS Symphonie-Orchester Berlin, Ferenc Fricsay"	Symphony No. 95 In C Minor / Symphony No. 101 In D Major (The Clock)			478 094	
+#2	 Verdi	"Giuseppe di Stefano, Tito Gobbi, Maria Meneghini Callas, Adriana Lazzarini, Plinio Clabassi, William Dickie, Renato Ercolani, Carlo Forti, Tullio Serafin, Norberto Mola"	Rigoletto Highlights From The Complete Recording			33CX 1582	
+#2	Verdi	"Verdi, Chorus* And Orchestra Of La Scala, Tullio Serafin, Norberto Mola ?– Teatro Alla Scala"	Verdi Opera Choruses			33CX 1376	
+#2	Maria Callas	"Giuseppe di Stefano, Orchestra And Chorus Of La Scala Opera House, Milan, Conducted By Tullio Serafin ?"	Cavalleria Rusticana / I Pagliacci			33CX 1402	
+#2	Various		Stereo Musicale Showcase			104 450	
+#2	Various		This Is Stereo			643 308	
+#2	Steeleye Span		All Around My Hat			CHR 1091	
+#2	The Torero Band		Tijuana (Sound of Brass)			MFP 1202	
+#2	Nina Simone		This is…				
+#2	Various		Original Soundtrack: Doctor Zhivago	Metro-Goldwyn-Mayer presents A Carlo Ponti Production David Leans Film of Boris Pasternak's			
+#2	Lena Zavaroni		Ma! He's Making Eyes At Me				
+#2	Klaus Wunderlich		Wunderlich Variations	Sound Variationen Mit Hertz			
+#2	Klaus Wunderlich		The Hit World Of Klaus Wunderlich				
+#2	Klaus Wunderlich		Pop Party	Vol 1			
+#2	Klaus Wunderlich	And His New Pop Organ Sound	Sudamericana 3	Latin Festival			
+#2	Klaus Wunderlich		Golden Hammond Pops				
+#2	Klaus Wunderlich	And His New Pop Organ Sound	Pops 7				
+#2	Klaus Wunderlich		Sound 2000				
+#2	Klaus Wunderlich		The Golden Sound Of	Hammond Fur Millionen 2			
+#2	Klaus Wunderlich	And His New Pop Organ Sound	Pops 1				
+#2	Klaus Wunderlich	And His New Pop Organ Sound	Pops 3				
+#2	Klaus Wunderlich		Hita Again 2				
+#2	Klaus Wunderlich		Around The World With Klaus Wunderlich				
+#2	Klaus Wunderlich		Hammond For Christmas				
+#2	Klaus Wunderlich		The Golden Sound Of Hammond				
+#2	Klaus Wunderlich		Golden Film Hits				
+#2	Klaus Wunderlich		Unforgettable	Golden Classics			
+#2	Various		The World Of Steam			SPA-A-103	
+#2	Various	"The Choir of Kings College, Cambridge"	The World Of Christmas				
+#2	Mike & Bernie Winters		in Toyland				
+#2	Slim Whitmen		The Slim Whitman Collection		2 Record Collection		
+#2	Louis De Rochemont		windjammer	First presentation in cinemiracle original music score by morton Gould		BBL7250	
+#2	The Wicks Scottish Dance Band 		The Sound of the North			STAL5007	
+#2	Various		The Alex Welsh Band Showcase.1				
+#2	Kai Warner		Golden strings			SUPER2371507	
+#2	Gwyl Yng Nghymru		Holiday in Wales			SQUAD 105	
+#2	The Rare Wagner		Overtures and Marches			ASD2837	
+#2	Emile Waldteufel	National Philharmonic Orchestra 	Waltzes			SXL6704	
+#2	Various		Trooping the colour	on Horse Guards Parade in Celebration of the offical birthday of Her Majesty the queen 1973		spr90033	
+#2	Stokowski/Wagner	London Symphony Orchestra	Masterpieces from the ring of thr Niebelung			PFS4116	
+#2	Wout Steenhuis		Meets The Kontikis			TWO187	
+#3	Igor Oistrach		Paganini			UACL 10003	
+#3	Palestrina	"Czech Philharmonic Chorus, Josef Veselka, Prague Madrigal Singers, Miroslav Venhoda"	Missa Papae Marcelli			SUA 10578	
+#3	Charles Hubert Hastings Parry	"Sir Adrian Boult, Sir Adrian Boult"	Symphony No. 5 - Symphonic Variations - Elegy For Brahms			ASD 3725	
+#3	Pavarotti		The Essential Pavarotti			430 210-1	
+#3	Peters & Lee		We Can Make It			6308 165	
+#3	Cliff Richard		Wired For Sound			EMC 3377	
+#3	Cliff Richard		Wired For Sound			EMC 3377	
+#3	Cliff Richard		Private Collection (1979 - 1988)			CRTV 30	
+#3	Cliff Richard		Everyone Needs Someone To Love			SPR90070	
+#3	Sibelius	"André Previn, Pittsburgh Symphony Orchestra"	Symphony No. 2  In D Op. 43			ASD 3414	
+#3	Alan Price		Rising Sun			JETLP 227	
+#3	Franck Pourcel	and his orchestra	Thinking Of You			TWO355	
+#3	André Previn	Conducts London Symphony Orchestra - Rodrigo And Angel Romero	Concierto De Aranjuez / Fantasia Para Un Gentilhombre			ASD3415	
+#3	André Previn	"Robert Tear, London Philharmonic Choir, London Philharmonic Orchestra"	Requiem (Grande Messe Des Morts)		2 Record Collection	SLS5209	
+#3	Richard Strauss	Vienna Philharmonic* Conducted By André Previn	Till Eulenspiegel / Don Juan / Death And Transfiguration			ASD3913	
+#3	Leontyne Price	André Previn	Leontyne Price / André Previn			ARL1-1029	
+#3	Alan Price 		England My England			JETDL 300	
+#3	Sigmund Romberg	Paul Weston And His Orchestra	The CBS Album of Sigmund Romberg		2 Record Collection	C2L-14	
+#3	Carmen Dragon	Conducting The Capitol Symphony Orchestra	Romantique			T580	
+#3	Brendan Shine	"Narciso Yepes, National Orchestra Of Spain, Argenta ; Frühbeck De Burgos"	Moonshine		Signed 	PLAY 1018	
+#3	Rodrigo		Guitar Concerto / Fantasía Para Un Gentilhombre			SPA 233	
+#3	Various		40 Non Stop Rock 'n' Roll Hits		2 Record Collection	MFP 1022	
+#3	Cliff Richard		I'm Nearly Famous			FA 3010	
+#3	Charlie Rich		Take Me			EPC 81841	
+#3	Charlie Rich		Behind Closed Doors			EPC 65716	
+#3	Ottorino Respighi	"The Czech Philharmonic Orchestra, Antonio Pedrotti"	Feste Romane / Fontane Di Roma			SUA 10364	
+#3	Shakin' Stevens		This Ole House			EPC 84985	
+#3	Neil Sedaka		The Tra-La Days Are Over			2315 248	
+#3	Neil Sedaka		Sounds Of Sedaka			MCF 2780	
+#3	The Seekers		The Seekers			T 422	
+#3	The Seekers 		The Four & Only Seekers			MFP 5025	
+#3	The Seekers		Live At The Talk Of The Town			SCX 6278	
+#3	The Seekers		The Best Of The Seekers			SCX 6268	
+#3	Semprini		Semprini At Your Request			MFP 1079	
+#3	Der Günter-Kallmann-Chor		Elisabeth-Serenade			237 310	
+#3	The Shadows		The Shadows At The Movies			MFP 50347	
+#3	The Shadows		Mustang			MFP 5266	
+#3	The Shadows		Simply... Shadows			833 682-1	
+#3	The Band Of The Royal Scots Greys		Second To None			TP 70	
+#3	Royal Male Choir 'Mastreechter Staar'	"Limburg Symphony Orchestra, Martin Koekelkoren"	Great Choruses			SFL14037	
+#3	Sabicas		Artistry In Flamenco			SL 10273	
+#3	Lalo / Saint-Saëns / Fauré	"Gaspar Cassado, Bamberg Symphony, Jonel Perlea"	Concertos For Cello / Elegie			STPL 510.920	
+#3	London Symphony Orchestra	Conducted By Sir Eugene Goossens	Scheherazade			TP 148	
+#3	Franz Schubert	Bavarian Radio Symphony Orchestra* Cond. Eugen Jochum	"Symphony No. 9 In C, Major, Op. Posth."			89 511	
+#3	Schubert / Mozart	Sinfonia Of London Conducted By Muir Mathieson	"Symphony No. 5 In B Flat Major / Eine Kleine Nachtmusik, Overture Così Fan Tutte"			SCP 15	
+#3	Trompeter-Korps Hans Freese		Reiterfreuden (Reitermärsche Im Schritt - Im Trab - Im Galopp)			237 064	
+#3	Sid Phillips and his Band		Hors-d'oeuvres		DLP	1102	
+#3	The  Platters 		The Platters Live	Produced by Buck Ram 		6870627	
+#3	Pomp and Circumstance		The World of the Great Classic			SPA419	
+#3	Porter Wagoner and Dolly Parton		Two of a Kind			LSA3044	
+#3	Franck Pourcell 	Grand Orchestre	Music Parade		2 Records	c184-15566/7-y	
+#3	Serge Prokofiev	Czech Philharmonic Orchestra 	Romeo and Juliet	Scenes from the Ballet op.64		STU70890	
+#3	Puccini 	William Johns 	Messa Di Gloria 			MFP2030	
+#3	Sergei Rachmaninov	Los Angeles Philharmonic/ Alfred Wallenstein	Symphony No.2 in E Minor Op27				
+#3	Diana Ross and the Supremes		Baby Love			SPR90001	
+#3	Diana Ross and the Supremes		Baby Love			SPR90001	
+#3	Rachmaninov	Samuel Barber	Sonata in G Minor Op.19			XID5272	
+#3	Ravel* / Debussy* / Hurník*		Daphnis Et Chloé / Prélude À L'après-midi D'un Faune / Ondráš			SUA1011	
+#3	Scott Joplin and Jelly Roll Morton		Red Hot and Ragtime			GH651	
+#3	Jim Reeves		According To My Heart			INTS.G391013	
+#3	Tom Mcclure		Tribute To Jim Reeves			MFP 5259	
+#3	Edmundo Ros And His Orchestra		Dance Again			PFS.4016	
+#3	Diana Ross ?		Touch Me In The Morning			STML 11239	
+#3	Diana Ross ?		Last Time I Saw Him			 M 812 V1	
+#3	Rostal & Schaefer	With Alyn Ainsworth And His Orchestra	The Two Pianos Of Rostal And Schaefer			SPR 90047	
+#3	D. Shostakovich	" Leningrad State Philharmonic Society Symphony Orchestra*, Je. Mravinsky"	Tenth Symphony Op 93			 HD 02243-44	
+#3	Sibelius	"The Scottish National Orchestra*, Alexander Gibson ?"	Symphony No. 3; Symphony No. 7			XID 5284	
+#3	The Symphonic Strings		Silent Night			ERL 50034	
+#3	Strings For Pleasure		Play Music Made Famous By Simon & Garfunkel			MFP 1403	
+#3	Simon & Garfunkel 		Simon And Garfunkel's Greatest Hits			69003	
+#3	Shakin' Stevens		Give Me Your Heart Tonight			EPC 10035	
+#3	Del Shannon 		The Best Of Del Shannon			2870 323	
+#3	Del Shannon 		The Best Of Del Shannon			2870 323	
+#3	Artie Shaw And His Orchestra		Concerto For Clarinet: The Best Of Artie Shaw			 INTS 5022	
+#3	Brendan Shine 		Brendan Shine			PLAY 1015	
+#3	Brendan Shine		My Old Country Home		Signed	PLAY LP1017	
+#3	Brendan Shine		With Love			PLAYTV2	
+#3	Brendan Shine		A picture of my world			PLAY LP 1022	
+#3	Brendan Shine		The Irish Side Of Brendan Shine			HPE616	
+#3	Shostakovich		"Czech Philharmonic Orchestra*, Karel An?erl "			 SUA ST 50052	
+#3	Pierre Amoyal 	" interprete Saint Saëns*, New Philharmonia Orch.* - Dir. Vernon Handley"	 Saint Saëns - Troisieme Pour Violin			 STU 70985	
+#3	Schubert	 London Symphony Orchestra* Conducted By Leopold Ludwig ?	"""Unfinished; Mozart Great G Minor"			TP150	
+#3	Schubert*	 Alfred Brendel	 Impromptus Op. 90 & 142			 GBY 12.390	
+#3	Jim Reeves ?		The Hits Of Jim Reeves			PL42179	
+#4	Verdi	"Elisabeth Schwarzkopf, Christa Ludwig, Nicolai Gedda, Nicolai Ghiaurov, Philharmonia Orchestra, Philharmonia Chorus, Carlo Maria Giulini"	Requiem Mass		2 Record Collection	SLS 909	
+#4	Mahler	"Leonard Bernstein, The London Symphony Orchestra"	Symphony No. 8		2 Record Collection	72491/92	
+#4	George Frederick Handel	"The Royal Philharmonic Orchestra And The Royal Choral Society, Sir Malcolm Sargent"	Messiah		3 Record Collection	RDS 5084 RDS 5085 RDS 5086	
+#4	Mahler	"Concertgebouw Orchestra, Amsterdam* Conducted By Bernard Haitink"	Symphony No. 8 / Symphony Of A Thousand		2 Record Collection	6700 049	
+#4	Herbert von Karajan	"Berliner Philharmoniker, Wiener Singverein, Gundula Janowitz, Eberhard Wächter"	Johannes Brahms: Ein Deutsches Requiem - Variationen Über Ein Thema von Haydn			138928/29	
+#4	Various		Gateway To The Classics		10 Record Collection	"SM225, SM226, SM227, SM228, SM229, SM230, SM231, SM232, SM233, SM234"	
+#4	Artur Rubinstein		The Artistry Of Artur Rubinstein		Box set of 6	GAAR-6	
+#4	Various		Stereo Spectacular - Adventures In Sound		Box set of 3	 236520/1/2	
+#4	James Last		East Meets West		2 Record Collection	2630 092	
+#4	Falstaff		"Giuseppe Verdi, Wiener Philharmoniker, Leonard Bernstein ?"			 cbs3002	
+#4	Telemann	Kurt Redel	Markus-Passion - Passion Selon Saint-Marc		2 Record Collection	SER 5507/8	
+#4	Giacomo Puccini	" Leontyne Price, Giuseppe Di Stefano, Giuseppe Taddei, Herbert Von Karajan "	 Tosca		Box set of 3	NE 1055	
+#4	The London Symphony Orchestra ?		 Encore				
+#4	Richard Wagner 	" Herbert von Karajan, Berliner Philharmoniker"	Der Ring Des Nibelungen (Gesamtausgabe)		Box set of 19	 2720 051	
+#5	Puccini	"Victoria De Los Angeles, Jussi Björling, Sir Thomas Beecham"	"Highlights From ""La Boheme"""			ALP 1921	
+#5	Giuseppe Verdi	"James Levine, The Metropolitan Opera Orchestra And Chorus"	La Traviata		Box Set of 2	"	25-0072-1"	
+#5	Various		The Land Of Smiles			CSD 1267	
+#5	James Last		James Last A Gogo			643304	
+#5	James Last 		Happy Hammond			2371 373	
+#5	James Last		Rock Around With Me!			249 250	
+#5	James Last		Make The Party Last			2371 612	
+#5	James Last		Weihnachten Mit James Last			815 199-1	
+#5	James Last		James Last In Concert			2371-191	
+#5	James Last		The Music Of James Last			2683 010	
+#5	James Last		Classics Up To Date			"	184 061"	
+#5	James Last		The Very Best Of James Last			2371 054	
+#5	James Last	and his Orchestra and Chorus	Golden Memories			2371 472	
+#5	James Last	Orchestra and Chorus	Love Must Be The Reason			2371 281 A	
+#5	James Last		The Best From 150 Gold		2 Record Collection	2681 211	
+#5	James Last		This Is James Last			104 678	
+#5	James Last		Non Stop Dancing 70			2371 014	
+#5	The Syd Lawrence Orchestra		The Syd Lawrence Orchestra Volume 1			ACLP 011	
+#5	Harald Winkle	And The Orchester Norman Candler	Le Rêve			6.22974	
+#5	Vicky Leandros		I Am			6303 019	
+#5	Raymond Lefevre	And His Orchestra	This Is Raymond Lefevre			DPS 2029	
+#5	Michel Legrand	London Symphony Orchestra	The Umbrellas Of Cherbourg / Theme & Variations For Two Pianos & Orchestra (From The Go-Between)			CBS 73886	
+#5	Brenda Lee		Johnny One Time			MUPS 396	
+#5	Brenda Lee		25th Anniversary			MCLD 609	
+#5	Lehar		The Merry Widow			OH 214	
+#5	Paul Leoni		Flights Of Fancy			NML 1002	
+#5	The Midnight Sun Letkiss Jenka Band	Conducted By Harry Arnold	Let's Kiss Kiss Kiss			184014	
+#5	Sinfonia Of London / Hollingsworth		Lilac Time			LM 4	
+#5	Little Richard		At His Best Vol.2			SM 3647	
+#5	David Lloyd And His London Orchestra		All My Loving			"	184 067"	
+#5	Henry Loges		Film Themes			184023	
+#5	Los Machucambos		Los Machucambos In Phase 4			PFS 34006	
+#5	Loretta Lynn		Best Of Loretta Lynn			MCF 2787	
+#5	Loretta Lynn		Here I Am Again			MPMS 2	
+#5	Loretta Lynn		I Remember Patsy			MCF 2807	
+#5	Loretta Lynn		Loretta Lynn's Greatest Hits Vol. II			MCA 420	
+#5	Loretta Lynn		You're Lookin' At Country			MUPS 447	
+#5	Mike Oldfield		Incantations			VDT101	
+#5	The George Mitchell Minstrels	"Featuring Tony Mercer, John Boulter, Dai Francis With Orchestral Accomaniment Directed By George Mitchell"	Here Come The Minstrels			CLP 3579	
+#5	Olivia Newton-John		Greatest Hits			EMTV 36	
+#5	Roy Orbison		The All-Time Greatest Hits Of			MNT 67290	
+#5	Roy Orbison		Memphis			SHU 8445	
+#5	Michael Austin		Organ Spectacular			2383227	
+#5	The Original Trinidad Steel Band		The Original Trinidad Steel Band			545034	
+#5	Gilbert O'Sullivan		Himself			MAM-SS 501	
+#5	Gilbert O'Sullivan		Gilbert O'Sullivan			MFP 50399	
+#5	Crazy Otto		More Crazy Otto			"	46362 LPHM"	
+#5	Albert W. Ketelbey		In A Persian Market			TP 359	
+#5	Buck Owens And His Buckaroos		I Wouldn't Live In New York City			E-ST 628	
+#5	Buck Owens		Stars Of Country			5C 050-82018	
+#5	Buck Owens		The Best Of Buck Owens Vol. 3			E-ST 11471	
+#5	Mantovani And His Orchestra		An Evening With Mantovani			SKL 5172	
+#5	Rick Nelson		The Very Best Of Rick Nelson			SLS 50164	
+#5	The New Christy Minstrels		Merry Christmas!			BPG 62287	
+#5	Various 		The King And I			LMP 20	
+#5	The New Seekers		Farewell Album			2383-293	
+#5	New Zealand Army Band		Brass To Go			OU 2206	
+#5	The Night Blooming Jazzmen		Freedom Jazz Dance			MSL 1016	
+#5	The Nolan Sisters		20 Giant Hits			TGS 502	
+#5	Guiomar Novaes	Chopin	Waltzes (Complete)			STPL 58170	
+#5	Guiomar Novaes	Chopin	"Piano Concerto No. 1 In E Minor, Opus 11"			STPL 510.710	
+#5	The Mormon Tabernacle Choir	The Philadelphia Orchestra	The Best Of The Mormon Tabernacle Choir			CBS 61873	
+#5	The Mormon Tabernacle Choir		The Mormon Tabernacle Choir Sings Christmas Carols			CBS ?– 61416	
+#5	The Morriston Orpheus Choir		The Valley In Song			TP 719	
+#5	Nana Mouskouri		Christmas With Nana Mouskouri			6312-033	
+#5	Carlo Maria Giulini	"Mozart, Philharmonia Orchestra, Philharmonia Chorus"	Requiem K. 626			ASD 3723	
+#5	Alan Civil	"With The Royal Philharmonic Orchestra* Conducted By Rudolf Kempe, Wolfgang Amadeus Mozart"	The Four Horn Concertos / Concert Rondo (First Full Recording)			T628	
+#5	Various		The Music Masters	Volume One		SPR 90029	
+#5	Ida Presti & Alexandre Lagoya		Music For The Classic Guitar			H-71161	
+#5	London Symphony Orchestra	Conducted By Ezra Rachlin	An Hour Of Musical Masterpieces			ADE C 2	
+#5	Various		The Theme From Love Story And Other Great Film Hits			SHM 733	
+#5	Nicolai Malko	Philharmonia	1812 And Other Famous Overtures			MFP 2034	
+#5	Manitas De Plata And Manero Baliardo		Flamenco De Manitas Et De Manero			CBS 80037	
+#5	Orchestre National De L'Opéra De Monte-Carlo		Manon Les Plus Belles Pages			SMS 2921	
+#5	Mantovani And His Orchestra		Mr. Music...Mantovani			SKL 4811	
+#5	Mantovani And His Orchestra		Strauss Waltzes			SKL 4010	
+#5	Neville Marriner		Siegfried Idyll / Pavane / Andante Cantabile / Two Elegiac Melodies / Nocturne / Minuet			ASD 3943	
+#5	Rick Nelson		The Very Best Of Rick Nelson			SLS 50164	
+#5	Frankie Laine	With Paul Weston And His Orchestra	Your Cheatin' Heart / I Believe		No Cover/Sleeve	B 21009 H	
+#5	Pat Boone		Remember You're Mine		No Cover/Sleeve	HL-D 8479	
+#5	The Torero Band ?		Lennon & McCartney Tijuana Style			 MFP 1318	
+#5	John Lennon 		The John Lennon Collection			"EMTV 37, EMI ?– OC 262-78 224"	
+#5	Franz Marszalek & The Vienna Ball Orchestra		 Viennese Waltzes			 583 505	
+#5	Anne Murray		 I'll Always Love You			 E ST-12012	
+#5	Los Claudios 		Weekend With Los Claudios			HI-FI 46420	
+#5	Neil Richardson And His Orchestra ?		Music From The Sensationally Romantic Film: Love Story			MFP STERO 5189	
+#5	Guy Mitchell ?		 20 Golden Greats			 PR 5066	
+#5	Roger Miller 		 The One And Only			CDS 1005	
+#5	Roger Miller ?		Walkin' In The Sunshine			SBL 7822	
+#5	Roger Miller ?		The 3rd Time Around			SFL.13014	
+#5	Glenn Miller And His Orchestra ?		The Unforgettable Glenn Miller			TVL43001	
+#5	 Louis Armstrong And The Allstars	The Universal-International Orchestra 	The Glenn Miller Story			MCF 3273	
+#5	Miki & Griff 		Country			NSPL 18588	
+#5	Miki & Griff 		 I Want To Stay Here			GGL 0230	
+#5	Yehudi Menuhin ?		Introduces The Instruments Of The Orchestra			SMF 235	
+#5	"Mendelssohn* And Bruch*, Ricci"		"London Symphony Orchestra*, Gamba* ?– Violin Concertos"			SXL.2006	
+#5	Mendelssohn	"The Leipzig Gewandhaus Orchestra*, Franz Konwitschny"	"Symphony No.3 In A Minor, Op. 56 'Scottish'"			T. 507	
+#5	Max Bygraves		Singalongachristmas With Max			HMA 265	
+#5	Johnny Mathis 		You've Got A Friend (Today's Great Hits)			C 30740	
+#5	Johnny Mathis ?		Johnny Mathis			CHM 684	
+#5	Johnny Mathis		 Johnny Mathis Sings Of Love			SHM 749	
+#5	Johnny Mathis		I'm Coming Home			65690	
+#5	Mireille Mathieu 		 Olympia			SCX 6391	
+#5	Lena Martell ?		That Wonderful Sound Of			NSPL 18427	
+#5	Lena Martell ?		The World Of Lena Martell			SPA 246	
+#5	Lena Martell 		Beautiful Sunday			RTL 2052	
+#5	Lena Martell 		From Lena Martell With Very Special Love			NSPL 18513	
+#5	Lena Martell 		The Magic Of Lena Martell			NSPL 18466	
+#5	"Mahler*, London Symphony Orchestra"	Conducted By Leopold Ludwig	Symphony No. 9			SCM. 16-17	
+#5	Johnny McEvoy		Since Maggie Went Away			MCF 3274	
+#5	Sullivan	Royal Philharmonic Orchestra	Pineapple Poll		1962	CSD 1399	
+#5	Giacomo Puccini		Highlights From Madama Butterfly (Illica & Giacosa)			ALP 2060	
+#5	Mahler	 Sir Adrian Boult Conducting The London Philharmonic Orchestra*	Symphony No. 1 In D Major			CMP. 31	
+#5	Mahler	"James Levine (2), The London Symphony Orchestra ?"	 Symphony No. 1 In D Major			ARL10894	
+#5	Mahler	"Leonard Bernstein, New York Philharmonic* / Jennie Tourel"	Symphony No. 5 In C-Sharp Minor / Kindertotenlieder		2 RECORDS	"CBS ?– 72182, CBS ?– 72183"	
+#5	Cynthia Glover / John Lawrenson 	With The Children's Choir (2) ?	 My Own Nursery Rhyme Record			MFP 1192	
+#5	The Nashville Chorale ?		 The Nashville Chorale Sings The Charlie Rich Songbook			ABCL 5103	
+#6	Adolf Scherbaum		Five Famous Concertos For Trumpet			SDJ 104 433	
+#6	W.A. Mozart		Don Giovanni			LPEM 19224	
+#6	Wilhelm Kempff	"Brahms, Schumann"	Balladen Op. 10 / Romanzen			2530 321	
+#6	Wagner	"Karajan, Berliner Philharmoniker"	Tristan Und Isolde / Tannhäuser / Die Meistersinger Von Nürnberg			413 754-1	
+#6	Anton Bruckner		Bruckner Symphony No1 RSO Berlin Chailly			421 091-1	
+#6	Bucks Fizz		Are You Ready?			"RCALP 8000	"	
+#6	Bucks Fizz		Bucks Fizz			RCA LP 5050	
+#6	Buck Owens And His Buckaroos		Roll Out The Red Carpet			T 2443	
+#6	Jean Sibelius	"Berliner Philharmoniker, Herbert von Karajan"	"Symphonien Nr.6 In D Minor, Nr.7 In C Major"			139 032	
+#6	Jean Sibelius	Berliner Philharmoniker · Herbert von Karajan	"Finlandia · Valse Triste · Der Schwan Von Tuonela, Tapiola"			139 016	
+#6	"Chopin, Schubert"	"Tamás Vásáry, Amadeus-Quartett, Trio Di Trieste, Jörg Demus"	Music Of The Romantic Era			104 407	
+#6	Offenbach / Gounod	Berliner Philharmoniker • Herbert von Karajan	Gaîté Parisienne / Ballettmusik Und Walzer Aus Margarete (Faust)			2530 199	
+#6	Brahms	"Herbert von Karajan, Berliner Philharmoniker"	Symphonie Nr. 2			138925	
+#6	Berlin Philharmonic		Light Cavalry: Favourite Overtures by Suppe And Rossini			2535629	
+#6	Giuseppe Verdi	"Orchester* Und Chor Der Mailänder Scala*, Tullio Serafin"	Il Trovatore			136 277	
+#6	Beethoven	"Vienna Philharmonic, Karl Böhm"	Symphony No. 4			2530 451	
+#6	Beethoven	"Christian Ferras, Herbert von Karajan, Berlin Philharmonic"	Violin Concerto			139 021	
+#6	Frédéric Chopin	Maurizio Pollini	Études Op. 10 & Op. 25			2530 291	
+#6	Brian Inglis		Sounds Of All Our Yesterdays			XTRA 1161	
+#6	The London Symphony Orchestra	Conducted By Ezra Rachlin	All-Time Classics			ADE C1	
+#6	Robert Merrill	Stanley Black Conducting The London Festival Orchestra And Chorus	Americana			PFS 4069	
+#6	Chopin	Liszt / Agustin Anievas	Sonata No. 3 In B Minor / Sonata In B Minor			HQS 1246	
+#6	Louis Armstrong		Great Original Performances 1923 - 1931			REB 597	
+#6	Franco Corelli		Sings Great Religious Arias			T 869	
+#6	Arnold Van Mill		Sings Favourite Opera Arias			GL5651	
+#6	Herb Alpert & The Tijuana Brass		The Beat Of The Brass			AML 916	
+#6	Richard Strauss	"Karajan, Berliner Philharmoniker"	Eine Alpensinfonie (An Alpine Symphony)			2532 015	
+#6	Herb Alpert And The Tijuana Brass		Christmas With Herb Alpert And The Tijuana Brass			AMLB 51026	
+#6	The Allman Brothers Band		Brothers And Sisters			47507	
+#6	Paul Anka		Diana (Paul Anka Sings His Greatest Hits)			INTS 1032	
+#6	Giovanni Pierluigi Da Palestrina	"Regensburger Domchor, Hans Schrems"	"Missa ""Hodie Christus Natus Est"" Improperia"			198 343	
+#6	"Sir Malcolm Sargent, B.B.C. Symphony Orchestra*, Joan Hammond, Shura Cherkassky"		An Evening At The Proms			ASD. 536	
+#6	"Verdi, Tebaldi, Bergonzi, Simionato, MacNeil, Vienna Philharmonic, Von Karajan"		Aida Highlights			LXT 5597	
+#6	James Last	Astrud Gilberto	Plus		Promo Copy	POLD 5207	
+#6	Augusto Algueró		Sounds Spectacular			184 147	
+#6	Lynn Anderson		I've Never Loved Anyone More			CBS 80998	
+#6	Lynn Anderson		You're My Man			CBS 64468	
+#6	"Canteloube, Chausson"	"Victoria De Los Angeles, The Lamoureux Orchestra (Paris), Jean-Pierre Jacquillat"	Songs Of The Auvergne / Poème De L'Amour Et De La Mer ?			ASD 2826	
+#6	J. S. Bach	Stuttgart Choir And Orchestra Conducted By Marcel Couraud	"Cantata No. 140 ('Wachet Auf Ruft Uns Die Stimme') / Cantata No. 150 ('Nach Dir, Herr, Verlanget Mich')"			CM 24	
+#6	Bach	"Teresa ?ylis-Gara, Patricia Johnson, Theo Altmeyer, Dietrich Fischer-Dieskau With The South German Madrigal Choir & South-West German Chamber Orchestra Conducted By Wolfgang Gönnenwein"	Easter Oratorio			ST 950	
+#6	Strings For Pleasure		Strings For Pleasure Play The Best Of Bacharach			MFP 1431	
+#6	Ronnie Aldrich And His Two Pianos	With The London Festival Orchestra	The World Of Burt Bacharach			SPA 193	
+#6	Chris Barber		The Great Re-union Concert			BLP 12140/1	
+#6	Tony Bennett		A Time For Love			BPG 62800	
+#6	Tony Bennett		With Love		No Cardboard Sleeve	S 64849	
+#6	Tony Bennett	With The Ralph Sharon Trio 	When Lights Are Low			BPG 62296	
+#6	Acker Bilk	His Clarinet And Strings	Evergreen (20 All Time Greats)			PW5045	
+#6	Acker Bilk	And His Paramount Jazz Band	Mr. Acker Bilk Plays			PRE 683	
+#6	Acker Bilk	 And His Paramount Jazz Band	Mama Told Me So			N128	
+#6	Acker Bilk	His Clarinet And Strings	Free			NSPLX 41056	
+#6	Acker Bilk	And His Paramount Jazz Band	Extremely Live In Studio One (On A Cold April Night)			NSPL 18569	
+#6	Acker Bilk	His Clarinet & Strings	Meanwhile......			NSPLX 41055	
+#6	Acker Bilk	His Clarinet And Strings	Invitation			NSPLX 41054	
+#6	Acker Bilk	And His Paramount Jazz Band	On Stage			STOL 101	
+#6	Billie Jo Spears		Billie Jo			UAS 29897	
+#6	Ravel / Dukas / Falla / Chabrier	Vienna State Opera Orchestra* Conducted By Hermann Scherchen	Bolero / Sorcerer's Apprentice And Works By Falla And Chabrier			TP 355	
+#6	Aldo Parisot	"Baltimore Conservatory Orchestra, Reginald Stewart"	Boccherini: Cello Concerto In B Flat Major/Vivaldi: Cello Concerti In E Minor & A Minor			XID 5258	
+#6	Max Boyce		"""Not That I Am Biased..."""			MAX 1002	
+#6	David Oistrakh / George Szell	The Cleveland Orchestra	Brahms Violin Concerto			ASD 2525	
+#6	Brahms	"William Steinberg, Pittsburgh Symphony Orchestra"	"Symphony No. 2 In D, Opus 73"			11002	
+#6	Brahms	"Nathan Milstein, Philharmonia, Fistoulari"	Violin Concerto			T 597	
+#6	Brahms	"Bruno Walter, Columbia Symphony Orchestra"	Symphony No. 3 In F / Tragic Overture			72090	
+#6	Various		Break-Through - An Introduction To Studio Two Stereo			STWO 1	
+#6	"June Bronhill, David Knight"		The Dancing Years			INTS 1049	
+#6	Anton Bruckner	"Corydon Singers, English Chamber Orchestra Wind Ensemble, Matthew Best"	"Mass In E Minor, Libera Me, Zwei Aequale"			A66177	
+#6	Anton Bruckner	"The Philadelphia Orchestra, Eugene Ormandy"	Symphony No. 7 In E			LSC-3059	
+#6	Anton Bruckner		Symphony No 7 In E Major			RL 31347	
+#6	Chris Barber	s Jazz Band	Chris Barber At The London Palladium			MFP 1039	
+#6	Chris Barber		The Best Of			820 230-1	
+#6	Kenny Ball	And His Jazzmen	Let's All Sing A Happy Song			NSPL 18415	
+#6	Chris Barber's Jazz Band / Mr. Acker Bilk's Paramount Jazz Band		The Best Of Barber And Bilk Volume 2			GGL 0096	
+#6	Chris Barber		The Chris Barber Story Volume 1			BLM 51003	
+#6	Chris Barber		The Chris Barber Story Volume 2			BLM 51004	
+#6	Ottilie Patterson	With Chris Barber	Madame Blues & Doctor Jazz!			BLM 51101	
+#6	The Chris Barber Band	With Louis Jordan And Edmond Hall	The Best Of Both Worlds			T 368	
+#6	Daniel Barenboim	"Brahms, New Philharmonia Orchestra, Sir John Barbirolli"	Piano Concerto No. 1			SXLP 30283	
+#6	Shirley Bassey		What I Did For Love			UAG 30280	
+#6	Count Basie Orchestra	Billy Eckstine	Basie-Eckstine Incorporated			T 398	
+#6	The world of opera	Beethoven	 Highlights from Fidelio			OH 107	
+#6	Gilbert Becaud		A Little Love And Understanding			SKL-R 5209	
+#6	Sidney Bechet		Sidney Bechet And The New Orleans Feetwarmers Vol. 3			SM 3573	
+#6	Beethoven	"Radu Lupu, Israel Philharmonic Orchestra, Zubin Mehta"	"Piano Concerto No.5 ""Emperor"""			SXDL 7503	
+#6	Beethoven	"Josef Chuchro, Alfred Hole?ek"	Cello Sonatas Op. 5			SUA ST 50534	
+#6	The Beach Boys		Best Of The Beach Boys		Damaged Cardboard Cover	ST 20856	
+#6	Beethoven	"Vienna Philharmonic, Schmidt-Isserstedt"	"Symphony No. 6 - ""Pastoral"", Egmont Overture"			SXL 6329	
+#6	Beethoven	"Pittsburgh Symphony Orchestra, Steinberg"	"Beethoven's 5th - Symphony No 5 In C Min, Op 67"			MFP 2104	
+#6	Beethoven	"Israel Philharmonic Orchestra, Zubin Mehta"	The Creatures Of Prometheus (Ballet Music)			SXL 6438	
+#6	Beethoven	London Symphony Orchestra Conducted By Josef Krips	Symphony No. 3 (Eroica)			TP 74	
+#6	Beethoven	"Vienna State Opera Orchestra, Hermann Scherchen"	Christ On The Mount Of Olives			T 406	
+#6	Philomena Begley		More About Love			RITZLP 0040	
+#6	The Pipes And Drums And Military Band Of The Scottish Division		Amazing Grace			CDS 1116	
+#6	Don Kosaken Chor Serge Jaroff 		Ave Maria			136544	
+#6	Franz Schubert	" Marga Hoeffgen*, Ernst Haefliger, Hermann Uhde, Regensburger Domchor"	Messe Nr. 5 As-Dur D. 678			LMP 139 108	
+#6	Giuseppe Verdi	"Renata Scotto, Giuliana Tavolaccini, Armanda Bonato, Gianni Raimondi, Ettore Bastianini "	La Traviata (In Italiano)			"136 276,"	
+#6	Peter Tschaikowksy	Berliner Philharmoniker · Herbert von Karajan 	Symphonie Nr.6 h-moll »Pathétique«			138 921 SLPM	
+#6	Beethoven	 The London Symphony Orchestra 	Symphony No 1 In C Major Op 31; Symphony No 9 In D Minor Op 125			ST 163	
+#6	Carl Orff		 Carmina Burana			 SUA ST 50028	
+#6	Tommy Burton & The Sporting House Club		Rag Time			WMD 222	
+#6	 Bunk Johnson And His Superior Jazz Band		 Bunk Johnson And His Superior Jazz Band			 LAG 545	
+#6	Webley Edwards		"Hawaii Calls"", Blue Skies Of Hawaii"			ST 2782	
+#6	Anton Bruckner ?		 Bruckner Symphony No1 RSO Berlin Chailly.			 421 091-1	
+#6	Anton Bruckner	 Berlin Philharmonic Orchestra	Symphony No. 8			ST 772	
+#6	Boxcar Willie ?		Boxcar Willie			 BRA 1001	
+#6	Bee Gees		E•S•P			 925 541-1	
+#6	The Beach Boys ?		 20 Golden Greats			OC 062 o 82232	
+#6	Animals		The Most Of			MFP 5218	
+#7	Eagles		The Best Of Eagles			EKT 5	
+#7	Various		Easy Listening		2 Record Collection	"	2675 002"	
+#7	Billy Eckstine		Senior Soul			2325 084	
+#7	Orchester Kurt Edelhagen		Big Band Swing			583 509	
+#7	George Weldon	"The Royal Philharmonic Orchestra, The Pro Arte Orchestra"	George Weldon Conducts Elgar			T 296	
+#7	Elgar	"Jacqueline Du Pré, Daniel Barenboim, Philadelphia Orchestra, London Philharmonic Orchestra"	"Cello Concerto, Op. 85 / Enigma"" Variations"			76529	
+#7	Elgar	"Sir John Barbirolli, Hallé Orchestra"	Symphony No. 2			ASD 2749	
+#7	Elgar	"Philharmonia Orchestra, Sir John Barbirolli"	Symphony No.1 In A Flat Major			ASD 2748	
+#7	Elgar	Vaughan William - William Steinberg Conducting The Pittsburgh Symphony Orchestra	Enigma Variations / Fantasia On A Theme By Thomas Tallis			MFP 2025	
+#7	Elvis Presley		Elvis Love Songs (20 Original Songs)			NE 1062	
+#7	The Everly Brothers		The Very Best Of The Everly Brothers			K 46008	
+#7	Barbara Fairchild 		This Is Me			CBS 83177	
+#7	Manuel De Falla	Heitor Villa-Lobos	The Three-Cornered Hat / The Little Train Of The Caipira			TP 164	
+#7	The Bach Choir		Family Carols			1749	
+#7	Hush		Family Favourites			SAM 1	
+#7	Various		Famous Orchestral Works			SUB 10065	
+#7	Various		20 Fantastic Hits By The Original Artists Volume Two			2891 002	
+#7	Gabriel Fauré	"Jocelyne Chamonin, George Abdoun, Chorale des Jeunesses Musicales de France, Orchestre Des Concerts Colonne, Louis Martini"	Requiem Op. 48			STPL 512.720	
+#7	Gounod	"Thomas / Ponchielli - Paris Conservatoire Orchestra, Anatole Fistoulari"	Faust Ballet Music / Mignon Overture / Dance Of The Hours			ACL 112	
+#7	Antonín Fils	Missa Solemnis	Christmas Carols Of European Nations			SUA ST 50517	
+#7	Foster & Allen		A Bunch Of Thyme			RITZ SP 408	
+#7	Various		The Four Seasons Of Medley			RDES 4023	
+#7	The Four Seasons	Featuring The 'Sound' Of Frankie Valli	The Big Ones			6336 208	
+#7	Freddie 'Fingers' Lee		Ol' One-Eye's Back!			CR 30178	
+#7	Billy Fury		The World Of Billy Fury			SPA 188	
+#7	James Galway	"Mozart, Rudolf Baumgartner Conducting The Festival Strings,Lucerne"	The Two Flute Concertos / Andante For Flute And Orchestra			LRL1 5109	
+#7	The 50 Guitars Of Tommy Garrett		The 50 Guitars Of Tommy Garrett			LBX 1E	
+#7	Gary Puckett And The Union Gap		Young Girl			CS 9664	
+#7	Ladi Geisler		Guitar À La Carte			249 202	
+#7	Gershwin	"William Steinberg, The Pittsburgh Symphony Orchestra, Jesus Maria Sanroma"	Rhapsody In Blue / American In Paris			TP 75	
+#7	Max Greger And His Orchestra		Moon River		2 Record Collection	 583 569	
+#7	Bert Kaempfert And His Orchestra	Max Greger And His Orchestra	One More Sunrise			LPHM 46328	
+#7	Max Greger Und Sein Enzian-Sextett		Hüttenzauber: Max Greger Und Sein Enzian-Sextett Spielen Zum Après-Ski			237 143	
+#7	Max Greger Und Sein Orchester		Greger In Rio			249 112	
+#7	Max Greger		This Is Max Greger			643 318	
+#7	Fernando Germani 		"Organ Recital At Selby Abbey, Yorkshire"			CSD. 1449	
+#7	Don Gibson		Country Number One !			WW 5079	
+#7	Various	"Madge Stephens, Helen Landis, Andy Cole, Nicholas Curtis, John Camburn, Mike Sammes, Mike Sammes Singers And The Mike Sammes Orchestra, John Gregory"	The Best Of Gilbert And Sullivan			SFL13000	
+#7	Adam	"Orchestre National De L'Opéra De Paris, Richard Blareau, Pierre Ladhuie"	Giselle - Ballet			 ACL 79	
+#7	The Glasgow Phoenix Choir		Will Ye No Come Back Again?			TP 621	
+#7	Glière	"Harold Farberman, The Royal Philharmonic Orchestra"	Ilya Murometz (Symphony No.3)			PCM 500/13	
+#7	Heinz Schachtner		Golden Trumpet Hits			184 052	
+#7	Ron Goodwin	& His Orchestra	Christmas Wonderland			TWO 189	
+#7	Gounod	"Pilar Lorengar, Heinz Hoppe, Jean-Claude Hartemann, Choeurs René Duclos, Paris Conservatoire Orchestra"	Saint Cecilia Mass			SXLP.30206	
+#7	"Starlight Strings Of The New Hollywood Orchestra, The"		Great Film Themes No. 4			MFP 1297	
+#7	Various		Great Hits Of The 60's			6870 618	
+#7	Various		The Greatest Hits Of Christmas			30046	
+#7	Various		Greece Is...Bouzouki			PSCXG 501	
+#7	Tacticos And His Bouzoukis		Music From The Greek Islands			MFP 1233	
+#7	Tacticos And His Bouzoukis		Music From The Greek Islands			MFP 1233	
+#7	Guitars Galore		Play Hits Of Gilbert O'Sullivan			DJSL.046	
+#7	Kálmán 	"Mimi Coertse, Karl Terkal, Friedl Loor, Chorus* And Orchestra Of The Vienna Volksoper* Conducted By Hans Hagen"	Highlights From The Gypsy Princess			ERO 8003	
+#7	Merle Haggard	And The Strangers	Eleven Winners			ST-11745	
+#7	Robin Hall And Jimmie MacGregor		By Public Demand			FJL 502	
+#7	Juanita Hall		The Original Bloody Mary Sings The Blues			SOC 971	
+#7	Juanita Hall		The Original Bloody Mary Sings The Blues			SOC 971	
+#7	Various		Impact			STWO 2	
+#7	Bakerloo Junction		Irish Songs and Ballads			GES 1231	
+#7	Charles Ives	William Masselos	Piano Sonata No. 1			SB-6709	
+#7	Tom Jones		Somethin' 'Bout You Baby I Like			SKL 5197	
+#7	Tim Rice And Andrew Lloyd Webber		Jesus Christ - Superstar Highlights From The Rock Opera			MFP 5280	
+#7	Jack Jones		All To Yourself (Twenty Golden Greats)			TVL 43002	
+#7	Thad Jones / Mel Lewis		Thad Jones / Mel Lewis		2 Record Collection	BND 4004	
+#7	The Gunter Kallmann Chorus		Once In Each Life			583 573	
+#7	Günter Kallmann		This Is Gunter Kallmann			2414 007	
+#7	Bert Kaempfert And His Orchestra		Tenderly			583 558	
+#7	Bert Kaempfert		This Is Bert Kaempfert			104699	
+#7	Herbert Rehbein & His Orchestra		Bert Kaempfert Presents Love			46 444	
+#7	Herbert Rehbein & His Orchestra		Love After Midnight			184 078	
+#7	Bert Kaempfert & His Orchestra		Living It Up			237 599	
+#7	Bert Kaempfert & His Orchestra		Christmas With Bert Kaempfert			104 693	
+#7	Bert Kaempfert & His Orchestra 		The Relaxing Sound Of Bert Kaempfert			583501	
+#7	Bert Kaempfert &  His Orchestra		Wonderland By Night			46 353	
+#7	Bert Kaempfert & His Orchestra		Love Letters			583 559	
+#7	Bert Kaempfert & His Orchestra		Safari Swings Again			2310 494	
+#7	Bert Kaempfert & His Orchestra		Yesterday And Today			2310 273	
+#7	Bert Kaempfert		Bert Kaempfert Now!			2310 137	
+#7	The Anita Kerr Singers		Simon And Garfunkel Songbook			6303 005	
+#7	Beethoven		"Herbert von Karajan Conducting The Philharmonia Orchestra, Elisabeth Schwarzkopf"	"Symphony No. 4 In B Flat / Ah, Perfido!"		33CX 1278	
+#7	Kiri Te Kanawa		Christmas With Kiri			414 632-1	
+#7	Gladys Knight And The Pips		30 Greatest			NE 1004	
+#7	Cherry Wainer		Hammond Organ Light And Lively			583 570	
+#7	Handel	Jean-François Paillard & Orchestra	Water Music			GL 25241	
+#7	Handel	Boyd Neel Orchestra Conducted By Boyd Neel	The Water Music			ACL 19	
+#7	Brian Dee		The Happy Hammond Plays All Time Great Movie Themes			SHM 814	
+#7	Emmylou Harris		Her Best Songs			NE 1058	
+#7	George Harrison		The Best Of George Harrison			MFP 50523	
+#7	Alfred Hause		Tango			184 079	
+#7	Joseph Haydn	"Berliner Philharmoniker, Hans Rosbaud"	Symphony No. 92 in G Major (Oxford) / Symphony No. 104 in D Major (London)			478 425	
+#7	Heintje		When The Christmas Bells Are Ringing			2344 021	
+#7	Herman's Hermits		20 Greatest Hits			NE 1001	
+#7	Vince Hill	With Alyn Ainsworth And His Orchestra	Thanks A Million			EMC 3034	
+#7	Various		Alan Freeman's History Of Pop		2 Record Collection	ADEP 9/10	
+#7	Various		Hitscene '76			CBS ?5023	
+#7	Unknown Artist		Hitsville			GGL 0202	
+#7	Lynn Holland		Oh Darling How I Miss You			236 217	
+#7	A. Honegger	"Czech Philharmonic Orchestra, Serge Baudo"	Symphonies No. 2 And No. 3			SUA ST 50027	
+#7	Gustav Holst	"Leopold Stokowski, Los Angeles Philharmonic Orchestra"	The Planets			MFP 2014	
+#7	Buddy Holly And The Crickets		The Buddy Holly Story			LVA 9105	
