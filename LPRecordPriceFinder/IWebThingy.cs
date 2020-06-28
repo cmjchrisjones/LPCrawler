@@ -6,10 +6,7 @@ namespace LPRecordPriceFinder
 {
     public interface IWebThingy
     {
-        string Homepage { get; set; }
-
-        string SearchElement { get; set; }
-
+    
         string TracebackURL { get; set; }
 
     }
