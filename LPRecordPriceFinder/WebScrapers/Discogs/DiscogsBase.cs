@@ -4,6 +4,6 @@ namespace LPRecordPriceFinder.WebScrapers.Discogs
     {
         public string HomePage => "https://www.discogs.com";
 
-        public string SearchElement => "search_q";
+        public string SearchElement => "q";
     }
 }

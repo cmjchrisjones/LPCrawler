@@ -6,6 +6,8 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="AngleSharp" Version="0.14.0" />
+    <PackageReference Include="selenium.chrome.WebDriver" Version="83.0.0" />
+    <PackageReference Include="selenium.support" Version="3.141.0" />
   </ItemGroup>
   <ItemGroup>
     <None Update="LP Records For Sale.csv">
