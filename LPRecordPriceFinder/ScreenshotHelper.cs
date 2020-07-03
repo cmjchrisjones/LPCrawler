@@ -5,7 +5,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using System.Text;
-
+using System.Runtime.InteropServices;
+using System.Runtime;
 namespace LPRecordPriceFinder
 {
     public static class ScreenshotHelper
@@ -17,7 +18,7 @@ namespace LPRecordPriceFinder
         /// <param name="fileName"></param>
         /// <param name="isHeadless"></param>
         public static void TakesScreenshot(string url, string fileName, bool isHeadless = true)
-        {
+        {;
             var options = new ChromeOptions();
             if (isHeadless)
             {
